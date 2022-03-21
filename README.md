@@ -1,4 +1,8 @@
 
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/99481094/159341696-b3815983-12c9-4f1f-9685-27a7c78f466d.gif" width="700px" />
+</div>
 
 
 👋🏽 Hello there! Welcome!
@@ -28,8 +32,8 @@ On my free time, i study and edit videos.
 
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrooH20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooH20&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedrooH20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooH20&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
