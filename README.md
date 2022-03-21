@@ -19,7 +19,7 @@ On my free time, i study and edit videos.
 ----------------------------------------
 - Name: Pedro Henrique Da Silva Ramos
 - Age: 20
-- Living in: Barra bonita, Brazil
+- Living in: Barra Bonita, Brazil
 - Stack: Javascript - HTML - CSS - Bootstrap
 - Dev: Front-end Developer
 - Technician: Graduate | internet computer technician
