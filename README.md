@@ -19,6 +19,7 @@ On my free time, i study and edit videos.
 ----------------------------------------
 - Name: Pedro Henrique Da Silva Ramos
 - Age: 20
+- Email: pedro20112823@gmail.com
 - Living in: Barra Bonita, Brazil
 - Stack: Javascript - HTML - CSS - Bootstrap
 - Dev: Front-end Developer
