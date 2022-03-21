@@ -1,10 +1,32 @@
-### Hi, i am PedrooH20 👋
 
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning JavaScript and Ui/Ux
 
-<div align="center">
+👋🏽 Hello there! Welcome!
+ ----------------------------------------
+I don't really don't know how you got here but thanks and welcome.
+
+🧑🏽 Public Information
+-----------------------------------------
+My name is Pedro Henrique Da Silva Ramos, I currently live in Barra Bonita, Brazil.
+
+On my free time, i study and edit videos.
+
+🖖🏽 Detailed Information
+----------------------------------------
+- Name: Pedro Henrique Da Silva Ramos
+- Age: 20
+- Living in: Barra bonita, Brazil
+- Stack: Javascript - HTML - CSS - Bootstrap
+- Dev: Front-end Developer
+- Technician: Graduate | internet computer technician
+- Studying: UNIP | Analysis and systems development
+
+🏆 Courses and certifications
+-----------------------------------------
+- JavaScript and ECMAscript | Curso Em Video
+
+
+<div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrooH20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooH20&layout=compact&langs_count=7&theme=dark"/>
@@ -22,6 +44,6 @@
   <a href = "mailto:pedro20112823@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-da-silva-ramos-87326a206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
 
