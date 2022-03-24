@@ -3,6 +3,12 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/99481094/159341696-b3815983-12c9-4f1f-9685-27a7c78f466d.gif" width="700px" />
 </div>
+<br>
+<div align="center">
+ <a href = "mailto:pedro20112823@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-da-silva-ramos-87326a206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
 
 
 👋🏽 Hello there! Welcome!
@@ -21,7 +27,7 @@ On my free time, i study and edit videos.
 - Age: 20
 - Email: pedro20112823@gmail.com
 - Living in: Barra Bonita, Brazil
-- Stack: Javascript - HTML - CSS - Bootstrap
+- Stack: Javascript - HTML - CSS - Bootstrap - VueJs
 - Dev: Front-end Developer
 - Technician: Graduate | internet computer technician
 - Studying: UNIP | Analysis and systems development
@@ -30,23 +36,10 @@ On my free time, i study and edit videos.
 -----------------------------------------
 - JavaScript and ECMAscript | Curso Em Video
 
-
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedrooH20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrooH20&layout=compact&langs_count=7&theme=dark"/>
 </div>
+    
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div>
-  
-  <div>
-  <br>
-  <a href = "mailto:pedro20112823@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-da-silva-ramos-87326a206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-
